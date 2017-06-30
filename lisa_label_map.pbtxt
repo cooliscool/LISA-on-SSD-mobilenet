@@ -1,0 +1,238 @@
+item{
+	id: 0
+	name: 'none'
+}
+item{
+	id: 1
+	name: 'addedLane'
+}
+
+item{
+	id: 2
+	name: 'slow'
+}
+
+item{
+	id: 3
+	name: 'curveLeft'
+}
+
+item{
+	id: 4
+	name: 'speedLimit15'
+}
+
+item{
+	id: 5
+	name: 'curveRight'
+}
+
+item{
+	id: 6
+	name: 'speedLimit25'
+}
+
+item{
+	id: 7
+	name: 'dip'
+}
+
+item{
+	id: 8
+	name: 'speedLimit30'
+}
+
+item{
+	id: 9
+	name: 'doNotEnter'
+}
+
+item{
+	id: 10
+	name: 'speedLimit35'
+}
+
+item{
+	id: 11
+	name: 'doNotPass'
+}
+
+item{
+	id: 12
+	name: 'speedLimit40'
+}
+
+item{
+	id: 13
+	name: 'intersection'
+}
+
+item{
+	id: 14
+	name: 'speedLimit45'
+}
+
+item{
+	id: 15
+	name: 'keepRight'
+}
+
+item{
+	id: 16
+	name: 'speedLimit50'
+}
+
+item{
+	id: 17
+	name: 'laneEnds'
+}
+
+item{
+	id: 18
+	name: 'speedLimit55'
+}
+
+item{
+	id: 19
+	name: 'merge'
+}
+
+item{
+	id: 20
+	name: 'speedLimit65'
+}
+
+item{
+	id: 21
+	name: 'noLeftTurn'
+}
+
+item{
+	id: 22
+	name: 'speedLimitUrdbl'
+}
+
+item{
+	id: 23
+	name: 'noRightTurn'
+}
+
+item{
+	id: 24
+	name: 'stop'
+}
+
+item{
+	id: 25
+	name: 'pedestrianCrossing'
+}
+
+item{
+	id: 26
+	name: 'stopAhead'
+}
+
+item{
+	id: 27
+	name: 'rampSpeedAdvisory20'
+}
+
+item{
+	id: 28
+	name: 'thruMergeLeft'
+}
+
+item{
+	id: 29
+	name: 'rampSpeedAdvisory35'
+}
+
+item{
+	id: 30
+	name: 'thruMergeRight'
+}
+
+item{
+	id: 31
+	name: 'rampSpeedAdvisory40'
+}
+
+item{
+	id: 32
+	name: 'thruTrafficMergeLeft'
+}
+
+item{
+	id: 33
+	name: 'rampSpeedAdvisory45'
+}
+
+item{
+	id: 34
+	name: 'truckSpeedLimit55'
+}
+
+item{
+	id: 35
+	name: 'rampSpeedAdvisory50'
+}
+
+item{
+	id: 36
+	name: 'turnLeft'
+}
+
+item{
+	id: 37
+	name: 'rampSpeedAdvisoryUrdbl'
+}
+
+item{
+	id: 38
+	name: 'turnRight'
+}
+
+item{
+	id: 39
+	name: 'rightLaneMustTurn'
+}
+
+item{
+	id: 40
+	name: 'yield'
+}
+
+item{
+	id: 41
+	name: 'roundabout'
+}
+
+item{
+	id: 42
+	name: 'yieldAhead'
+}
+
+item{
+	id: 43
+	name: 'school'
+}
+
+item{
+	id: 44
+	name: 'zoneAhead25'
+}
+
+item{
+	id: 45
+	name: 'schoolSpeedLimit25'
+}
+
+item{
+	id: 46
+	name: 'zoneAhead45'
+}
+
+item{
+	id: 47
+	name: 'signalAhead'
+}

@@ -1,5 +1,5 @@
 # LISA-on-SSD-mobilenet
-For training SSD MobileNet v1 Trained on LISA Traffic Sign dataset.
+For training a SSD using MobileNet-v1 by Google with LISA Traffic Sign dataset.
 
 The code in this repository is helpful to Convert the LISA Traffic Sign dataset into Tensorflow tfrecords.
 

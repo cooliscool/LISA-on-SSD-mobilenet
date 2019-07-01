@@ -16,3 +16,5 @@ Example usage:
 ## Credits
 Code adapted and modified by Ajmal Moochingal
 Original code credit goes to Tensorflow Authors. 
+
+**this project is archived. I don't work on this anymore. but, anyone can feel free to use it or modify or do whatever you want.**
